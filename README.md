@@ -1,6 +1,6 @@
 Unified Outreach Data Pipeline
 
-Hi im Ashwin. This is a lightweight data pipeline that ingests outreach and reply events from multiple platforms, normalizes them into a unified contact schema, and exports a clean, deduplicated CSV.
+This is a lightweight data pipeline that ingests outreach and reply events from multiple platforms, normalizes them into a unified contact schema, and exports a clean, deduplicated CSV.
 
 How to Run
 python app.py
