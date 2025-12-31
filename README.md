@@ -1,4 +1,4 @@
-Unified Outreach Data Pipeline
+Unified Outreach Data Pipeline - Ashwin Giritharan
 
 This is a lightweight data pipeline that ingests outreach and reply events from multiple platforms, normalizes them into a unified contact schema, and exports a clean, deduplicated CSV.
 
